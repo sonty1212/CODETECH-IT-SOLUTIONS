@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. Godes Shree Radha Rani was from which villege ?",
+    "Q2. Which city is Lord Krishna was Born?",
+    "Q3. Godes Sita is from which Kingdom ?",
+    "Q4. God Radha-Krishna lives in which cosmic universe?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2
+  ],
+  "options": [
+
+    ["Barsana",
+      "Gokul",
+      "Vrindaban",
+      "Mathura"
+    ],
+    ["Vrindaban",
+      "Mathura",
+      "Barsana",
+      "Gokul"
+    ],
+    ["Ayodhya",
+      "Kishkandha",
+      "Mithila/Janakpur",
+      "Lanka"
+    ],
+    ["Vaikunth",
+      "Gau-Loak",
+      "Kailsah",
+      "Swarg-Loak"
+    ]
+  ]
+}
